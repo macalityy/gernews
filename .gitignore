@@ -1,1 +1,3 @@
 feedparser/
+data/
+*.code-workspace
