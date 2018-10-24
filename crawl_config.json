@@ -1,0 +1,8 @@
+{
+    "source": [
+        "http://www.spiegel.de/schlagzeilen/index.rss",
+        "http://newsfeed.zeit.de/all",
+        "http://www.tagesschau.de/xml/tagesschau-meldungen/"
+    ],
+    "path": "data/"
+}
