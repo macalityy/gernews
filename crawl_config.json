@@ -1,8 +1,15 @@
 {
     "source": [
+        "https://www.bild.de/rssfeeds/rss3-20745882,feed=alles.bild.html",
         "http://www.spiegel.de/schlagzeilen/index.rss",
         "http://newsfeed.zeit.de/all",
-        "http://www.tagesschau.de/xml/tagesschau-meldungen/"
+        "http://www.tagesschau.de/xml/tagesschau-meldungen/",
+        "http://rss.dw.com/xml/rss-de-all",
+        "http://taz.de/!s=&ExportStatus=Intern&SuchRahmen=Online;rss/",
+        "https://www.n-tv.de/rss",
+        "http://rss.focus.de/fol/XML/rss_folnews.xml",
+        "http://rss.sueddeutsche.de/app/service/rss/alles/index.rss?output=rss",
+        "http://www.faz.net/rss/aktuell/"
     ],
     "path": "data/"
 }
